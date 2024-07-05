@@ -1,0 +1,7 @@
+Frontend of the Leiscope project
+
+For setup, first install Volta since we pin the node version with it. Next run `npm i` and to run the project do `npm run dev`. 
+
+
+
+
