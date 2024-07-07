@@ -1,12 +1,33 @@
+:root {
+  font-family: Inter, system-ui, Avenir, Arial, Helvetica, sans-serif;
+  line-height: 1.5;
+  font-weight: 400;
+
+  color: rgba(255, 255, 255, 0.87);
+  background-color: #3d405b;
+
+  font-synthesis: none;
+  text-rendering: antialiased;
+}
+
 body {
   margin: 0px;
-}
-* {
-  box-sizing: border-box;
 }
 
 nav {
   height: 70px;
   display: flex;
+  z-index: 1;
   align-items: center;
+}
+
+.grid-leiscope {
+  margin-left: 2%;
+  background-color: #3d405b;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 30px;
+  padding: 4%;
+  margin-top: 5%;
+  row-gap: 20px;
 }
