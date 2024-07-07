@@ -1,21 +1,12 @@
-<<<<<<< HEAD
-nav {
-  height: 70px;
-  display: flex;
-}
 body {
-  margin: 0;
-=======
-body {
-   margin: 0px;
->>>>>>> 0311a0989e6d8a957851bba42f03f7e1506e81be
+  margin: 0px;
 }
 * {
   box-sizing: border-box;
 }
 
 nav {
- 
   height: 70px;
   display: flex;
 }
+
