@@ -25,6 +25,8 @@
 
 .search-box {
   margin: 10px auto;
+  margin-left: 50%;
+  margin-right: 10%;
   align-items: center;
   background-color: #242424;
   padding: 10px 20px;
